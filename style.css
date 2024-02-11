@@ -1,0 +1,542 @@
+*{
+    margin:0px 0px 0px 0px;
+    
+}
+body{
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    font: 1.2rem "Fira Sans", sans-serif;
+}
+
+.all{
+    height:785px;
+    /* background-color: rgba(11, 35, 65, 0.2); */
+    background-image: linear-gradient(180deg,rgba(137, 135, 135, 0.5),rgba(247, 245, 240, .4)) ,url(../toa-heftiba-LhJczjL3O04-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+    
+    
+}
+.image{
+    /* height:100%; */
+    border:0.00007px solid  transparent;
+    width:100%;
+}
+
+
+.nav{
+    align-items: center;
+    /* border: solid rgb(237, 235, 23); */
+    margin-top:35px;
+    height:50px;
+    display:flex;
+    justify-content: space-evenly;
+}
+a{  
+    
+    opacity: .8;
+    font-weight: bold;
+    font-size:medium;
+    color: whitesmoke;
+    text-decoration: none;
+
+}
+.header{
+    /* border:2px solid orchid; */
+    /* border:2px solid; */
+    width:600px;
+    /* gap: 10%; */
+    margin-left: 350px;
+    /* margin:3px; */
+    /* nav-left: 3; */
+    display:flex;
+    justify-content: space-evenly;
+    /* color:blueviolet; */
+
+}
+.content{
+    align-items: center;
+    width:600px;
+    height:483px;
+    margin-top: -34%;
+    margin-left: 31%;
+    font-size: 500px;
+
+}
+
+.name{
+    align-items: center;
+    /* border:2px solid brown; */
+}
+.lorem{
+    margin-top:20px;
+    color:white;
+    /* font-size: 500px; */
+    /* border:2px solid black; */
+    width:600px;
+    text-align: center;
+}
+.button{
+    text-align: center;
+    margin-top: -370px;
+    height: 20;
+    
+}
+.button01{
+    border:1px solid whitesmoke;
+    /* border-color:white; */
+    width:129px;
+    height: 35px;
+    color:white;
+    background-color:transparent; 
+    border-radius: 30px;
+    align-items: center;
+    font-size: small;
+    cursor: pointer;
+   
+}
+.about{
+    margin-top: 6px;
+    width: 100%rem;
+    height:785px;
+    border:.00000001px solid transparent;
+    background-color: rgba(169, 173, 173, 0.19);
+
+}
+.about01{
+    /* border:5px solid rgb(70, 249, 21); */
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+    height:30px;
+
+
+}
+.first02{
+    /* border:1px solid rgb(234, 122, 3); */
+    /* height:30px; */
+    margin-top: 40px;
+    align-items: center;
+    text-align: center; 
+
+
+
+
+}
+.first03{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:70px;
+    width:100%;
+    /* border:2px solid rgb(209, 153, 21); */
+    height:500px;
+}
+.button2{
+     
+    font-size: 15px;
+    margin-left: -583px;
+    color: white;
+    text-align: center;
+    background-color: rgb(47, 179, 47);
+    width:18%;
+    border:0.1px solid transparent;
+    height:40px;
+    margin-top: 22px;
+    cursor: pointer;
+
+}
+.first0301{
+    
+    box-shadow: 5px 1px 8px rgba(26, 24, 24, 0.11);
+    border-radius: 1%;
+    background-size:cover;
+    width:30%;
+    /* border:2px solid rgb(178, 96, 20); */
+    height:500px;
+    background-image:linear-gradient(180deg,rgba(10, 10, 9, 0),rgba(24, 23, 20, 0)) ,url(../IMG-20221209-WA0002.jpg);
+    background-repeat: no-repeat;
+     
+
+}
+.first0302{
+
+    margin-left: -100px;
+    /* -size: small; */
+    width:50%;
+    /* border:2px solid rgb(240, 121, 9); */
+    height:500px;
+    
+}
+
+
+.third{
+    /* linear-gradient:(rgba(10, 10, 89, 0),rgba(24, 23, 20, 0)) ; */
+    /* margin-top: -px; */
+    width: 100%;
+    height:785px;
+    border:.1px solid transparent;
+    background-color: rgba(202, 205, 205, 0.19);
+
+    
+
+}
+.fault{
+    margin-top: 20px;
+    /* border:5px solid rgb(12, 50, 127); */
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+    height:30px;
+
+}
+.third0{
+    /* border:2px solid rgb(70, 249, 21); */
+    /* width:120px; */
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    /* font-size:500px ; */
+    height:30px;
+
+
+
+}
+ 
+.third1{
+    /* border:1px solid rgb(234, 122, 3); */
+    height:30px;
+    margin-top: 80px;
+    align-items: center;
+    text-align: center;
+
+}
+.third10{
+    /* border:1px solid rgb(3, 149, 156); */
+    height:500px;
+    margin-top: 55px;
+    align-items: center;
+    text-align: center;
+
+
+
+}
+.third11{
+    /* border:1px solid rgb(3, 149, 156); */
+    height:260px;
+    /* margin-top: 80px; */
+    align-items: center;
+    text-align: center;
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.third110{
+    cursor: pointer;
+
+    /* justify-content: space-evenly; */
+    border-radius: 8px;
+
+    background-color: white;
+    /* border:1px solid rgb(6, 234, 246); */
+    border-radius: 8px;
+    height:200px;
+    width:300px
+
+}
+.third111{
+    cursor: pointer;
+
+    background-color: white;
+    border-radius: 8px;
+    /* border:1px solid rgb(248, 11, 217); */
+    width:300px;
+    height:200px;
+
+}
+.third112{
+    cursor: pointer;
+
+    background-color: white;
+    border-radius: 8px;
+
+    /* border:1px solid rgb(239, 62, 8); */
+    height:200px;
+    width:300px
+
+}
+
+.black{
+    border:.002px solid transparent;
+    width:100%;
+    height: 200px;
+    background-color: rgb(28, 27, 27);
+    opacity: .8;
+
+}
+
+.black01{
+        /* border:1px solid rgb(239, 62, 8); */
+        width: 100%;
+        height: 10px;
+        align-items: center;
+
+ }
+
+
+
+.fourth{
+    background-color: rgba(187, 189, 189, 0.1);
+
+    height:785px;
+     /* background-image: linear-gradient(180deg,rgba(52, 50, 50, 0.5),rgba(247, 245, 240, .4)) ,url(../toa-heftiba-LhJczjL3O04-unsplash.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+
+}
+
+
+.fourth0{
+    margin-top: 20px;
+    /* border:5px solid rgb(12, 50, 127); */
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+    height:30px;
+}
+.fourth1{
+     /* border:1px solid rgb(234, 122, 3); */
+    /* height:30px; */
+    margin-top: 40px;
+    align-items: center;
+    text-align: center; 
+
+}
+
+.fourth2{
+    margin-top: 70px;
+    width:100%;
+    height: 70%;
+    /* border:2px solid darkolivegreen; */
+    display:flex;
+    justify-content: space-evenly;
+}
+.fourth20{
+        background-color: white;
+
+        box-shadow: 2px 2px 2px 2px  rgba(239, 239, 239, 0.952);    width:20em;
+    height: 90%;
+    /* border:2px solid rgb(220, 15, 159); */
+}
+.fourth200{
+    background-image: url(../63B7E98B-F416-48D8-A285-89DC2D911401_1_105_c.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:18em;
+    height:60%;
+    margin-top: 20px;
+    margin-left: 20px;
+    /* border:2px solid rgb(17, 90, 199); */
+
+
+}
+.fourth201{
+    text-align: center;
+    margin-top: 15px;
+     width:20em;
+    height: 27%;
+    /* border:2px solid rgb(244, 88, 22); */
+
+}
+
+.fourth21{
+    background-color: white;
+
+    box-shadow: 2px 2px 2px 2px  rgba(239, 239, 239, 0.952);
+
+    width:20em;
+    height: 90%;
+    /* border:2px solid darkolivegreen; */
+
+
+}
+.fourth210{
+    
+    background-image: url(../982D9676-5140-44FD-8F7C-4A9AF12D11B5.jpeg);
+     
+    /* border:2px solid rgb(17, 90, 199); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:18em;
+    height:60%;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.fourth211{
+    margin-top: 15px;
+    width:20em;
+    height: 27%;
+
+    /* border:2px solid rgb(244, 88, 22); */
+
+
+}
+.fourth22{
+    background-color: white;
+
+    box-shadow: 2px 2px 2px 2px  rgba(239, 239, 239, 0.952);
+    width:20em;
+    height: 90%;
+    /* border:2px solid darkolivegreen; */
+
+
+}
+.fourth220{
+    background-image: url(../6E2D5AA1-C7E4-4751-9B1A-850E5B207E1D.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:18em;
+    height:60%;
+    margin-top: 20px;
+    margin-left: 20px;
+    /* border:2px solid rgb(17, 90, 199); */
+
+
+}
+.fourth221{
+    margin-top: 15px;
+    width:20em;
+    height: 27%;
+    /* border:2px solid rgb(244, 88, 22); */
+}
+
+.fifth{
+    background-color: rgba(200, 202, 202, 0.183);
+
+    height:785px;
+     /* background-image: linear-gradient(180deg,rgba(52, 50, 50, 0.5),rgba(247, 245, 240, .4)) ,url(../toa-heftiba-LhJczjL3O04-unsplash.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border:.0002px solid transparent;
+}
+
+.fifth1{
+    width:100%;
+    height: 30%;
+    /* border:2px solid rgb(237, 215, 12); */
+
+
+}
+.fifth2{
+    
+    margin-top: 20px;
+    /* border:5px solid rgb(12, 50, 127); */
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+    height:30px;
+
+}
+.fifth3{
+        /* border:5px solid rgb(3, 73, 213); */
+
+    margin-top: 40px;
+    align-items: center;
+    text-align: center; 
+
+}
+.fifth4{
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-evenly;
+     margin-top: 70px;
+     background-color: white;
+    width:80%;
+    height: 513px;
+    /* border:2px solid rgb(150, 225, 22); */
+    }
+
+.fifth40{
+    width:37%;
+    height: 513px;
+    /* border:2px solid rgb(6, 162, 218); */
+
+}
+.fifth400{
+    margin-top: 100px;
+    width:100%;
+    height: 150px;
+    /* border:2px solid rgb(150, 225, 22); */
+
+}
+.fifth401{
+    margin-top: 10px;
+    width:90%;
+    height: 80px;
+    /* border:2px solid rgb(150, 225, 22); */
+
+
+}
+.fifth402{
+    margin-top: 10px;
+    width:75%;
+    height: 100px;
+    /* border:2px solid rgb(150, 225, 22); */
+
+
+}
+
+.fifth41{
+    width:35%;
+    height: 513px;
+    /* border:2px solid rgb(110, 22, 225); */
+
+}
+
+ 
+
+
+.sixth{
+    /* display:flex;
+    justify-content: space-evenly; */
+    background-color: rgba(43, 42, 42, 0.286);
+    height:190px;
+     /* background-image: linear-gradient(180deg,rgba(52, 50, 50, 0.5),rgba(247, 245, 240, .4)) ,url(../toa-heftiba-LhJczjL3O04-unsplash.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border:.00004px solid transparent;
+
+}
+.sixth0{
+    width:30%;
+    height: 25%;
+    /* border:2px solid rgb(37, 126, 168); */
+    margin-top:45px;
+    margin-left: 500px;
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.sixth1{
+    /* margin-bottom: 20px; */
+    display:flex;
+    justify-content: space-evenly;
+    /* width:60%; */
+    height: 100%;
+    border:px solid blueviolet;
+
+}
+.sixth2{
+    align-items: center;
+    margin-top: 40px;
+    /* border:2px solid rgb(21, 236, 9); */
+    width:100%;
+    height: 30%;
+    text-align: center;
+
+
+}
